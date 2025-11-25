@@ -22,5 +22,6 @@ Note: This application needs to run in administrator mode to log errors in the e
 
 ## 👩‍💻 Author
 **Malak Muayad**
+
 📧 [malakmuayad15@gmail.com](mailto:malakmuayad15@gmail.com)  
 🔗 [malakmuayad11](https://github.com/malakmuayad11)
