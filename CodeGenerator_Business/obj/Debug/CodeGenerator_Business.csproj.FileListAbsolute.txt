@@ -1,0 +1,11 @@
+C:\CodeGenerator\CodeGenerator_Business\obj\Debug\CodeGenerator_Business.csproj.AssemblyReference.cache
+C:\CodeGenerator\CodeGenerator_Business\obj\Debug\CodeGenerator_Business.csproj.CoreCompileInputs.cache
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\CodeGenerator_Business.dll
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\CodeGenerator_Business.pdb
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\CodeGenerator_Data.dll
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\CodeGenerator_Data.pdb
+C:\CodeGenerator\CodeGenerator_Business\obj\Debug\CodeGene.33D229B6.Up2Date
+C:\CodeGenerator\CodeGenerator_Business\obj\Debug\CodeGenerator_Business.dll
+C:\CodeGenerator\CodeGenerator_Business\obj\Debug\CodeGenerator_Business.pdb
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\Logger.dll
+C:\CodeGenerator\CodeGenerator_Business\bin\Debug\Logger.pdb

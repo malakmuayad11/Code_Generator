@@ -1,0 +1,17 @@
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.AssemblyReference.cache
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Properties.Resources.resources
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.GenerateResource.cache
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe.config
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_Business.dll
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_Data.dll
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_Business.pdb
+C:\CodeGenerator\CodeGenerator\bin\Debug\CodeGenerator_Data.pdb
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGene.5CC6BE46.Up2Date
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\CodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.frmMainScreen.resources
+C:\CodeGenerator\CodeGenerator\bin\Debug\Logger.dll
+C:\CodeGenerator\CodeGenerator\bin\Debug\Logger.pdb

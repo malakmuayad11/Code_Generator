@@ -1,0 +1,9 @@
+C:\CodeGenerator\CodeGenerator_Data\bin\Debug\CodeGenerator_Data.dll
+C:\CodeGenerator\CodeGenerator_Data\bin\Debug\CodeGenerator_Data.pdb
+C:\CodeGenerator\CodeGenerator_Data\obj\Debug\CodeGenerator_Data.csproj.AssemblyReference.cache
+C:\CodeGenerator\CodeGenerator_Data\obj\Debug\CodeGenerator_Data.csproj.CoreCompileInputs.cache
+C:\CodeGenerator\CodeGenerator_Data\obj\Debug\CodeGenerator_Data.dll
+C:\CodeGenerator\CodeGenerator_Data\obj\Debug\CodeGenerator_Data.pdb
+C:\CodeGenerator\CodeGenerator_Data\bin\Debug\Logger.dll
+C:\CodeGenerator\CodeGenerator_Data\bin\Debug\Logger.pdb
+C:\CodeGenerator\CodeGenerator_Data\obj\Debug\CodeGene.61566472.Up2Date

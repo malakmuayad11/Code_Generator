@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeGenerator\\CodeGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|c:\\codegenerator\\codegenerator\\clsaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:clsaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clsgeneratorbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|C:\\CodeGenerator\\CodeGenerator\\clsregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B330E20-15F2-4914-AC2B-E66912EFD35A}|CodeGenerator.csproj|solutionrelative:clsregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A981A28-324B-4DFD-B0BD-F94D14090CFE}|..\\CodeGenerator_Data\\CodeGenerator_Data.csproj|C:\\CodeGenerator\\codegenerator_data\\clsparameterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clsparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clsfilegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\ifilegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A981A28-324B-4DFD-B0BD-F94D14090CFE}|..\\CodeGenerator_Data\\CodeGenerator_Data.csproj|C:\\CodeGenerator\\codegenerator_data\\clstabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clsgeneratordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clscolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A981A28-324B-4DFD-B0BD-F94D14090CFE}|..\\CodeGenerator_Data\\CodeGenerator_Data.csproj|C:\\CodeGenerator\\codegenerator_data\\clscolumndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A981A28-324B-4DFD-B0BD-F94D14090CFE}|..\\CodeGenerator_Data\\CodeGenerator_Data.csproj|C:\\CodeGenerator\\codegenerator_data\\clssettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA9164-B060-411A-A3A8-C1FB04F95BE9}|..\\CodeGenerator_Business\\CodeGenerator_Business.csproj|C:\\CodeGenerator\\codegenerator_business\\igeneratorbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodeGenerator\\CodeGenerator_Data\\clsLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainScreen.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\frmMainScreen.cs",
+              "RelativeToolTip": "frmMainScreen.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAIEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:25:44.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsAES.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\clsAES.cs",
+              "RelativeDocumentMoniker": "clsAES.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\clsAES.cs",
+              "RelativeToolTip": "clsAES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:28:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsRegistry.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\clsRegistry.cs",
+              "RelativeDocumentMoniker": "clsRegistry.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\clsRegistry.cs",
+              "RelativeToolTip": "clsRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:28:11.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\clsValidation.cs",
+              "RelativeDocumentMoniker": "clsValidation.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\clsValidation.cs",
+              "RelativeToolTip": "clsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:33:06.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-15T15:00:07.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsLogger.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Data\\clsLogger.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Data\\clsLogger.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Data\\clsLogger.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Data\\clsLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:51:14.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsGeneratorBusiness.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsGeneratorBusiness.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsGeneratorBusiness.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsGeneratorBusiness.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsGeneratorBusiness.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAkwPwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:54:53.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-11-15T14:59:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:48:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsParameter.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsParameter.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsParameter.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsParameter.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:54:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsFileGenerator.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsFileGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsFileGenerator.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsFileGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsFileGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:55:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsParameterData.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Data\\clsParameterData.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Data\\clsParameterData.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Data\\clsParameterData.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Data\\clsParameterData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:50:52.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsTableData.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Data\\clsTableData.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Data\\clsTableData.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Data\\clsTableData.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Data\\clsTableData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:12:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsTable.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsTable.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsTable.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsTable.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsTable.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:53:44.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFileGenerator.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\IFileGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\IFileGenerator.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\IFileGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\IFileGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:58:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsGeneratorData.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsGeneratorData.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsGeneratorData.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsGeneratorData.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsGeneratorData.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:54:28.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenerator.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\IGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\IGenerator.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\IGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\IGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:56:27.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsColumn.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsColumn.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsColumn.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsColumn.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:56:02.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsColumnData.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Data\\clsColumnData.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Data\\clsColumnData.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Data\\clsColumnData.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Data\\clsColumnData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:51:30.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsSettingsData.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Data\\clsSettingsData.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Data\\clsSettingsData.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Data\\clsSettingsData.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Data\\clsSettingsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:49:34.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\clsUtil.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\clsUtil.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\clsUtil.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\clsUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:49:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGeneratorBusiness.cs",
+              "DocumentMoniker": "C:\\CodeGenerator\\CodeGenerator_Business\\IGeneratorBusiness.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_Business\\IGeneratorBusiness.cs",
+              "ToolTip": "C:\\CodeGenerator\\CodeGenerator_Business\\IGeneratorBusiness.cs",
+              "RelativeToolTip": "..\\CodeGenerator_Business\\IGeneratorBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:51:24.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
