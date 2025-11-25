@@ -8,7 +8,7 @@ A Windows desktop application built with C# .NET framework, and SQL Server. The 
 
 ## ⬇️ Installation
 Note: This application needs to run in administrator mode to log errors in the event viewer.
-1. Clone the repository: git clone https://github.com/malakmuayad11/CodeGenerator.git
+1. Clone the repository: git clone https://github.com/malakmuayad11/Code_Generator.git
 2. Open the project in Visual Studio.
 3. Press Start to run the application.
 
